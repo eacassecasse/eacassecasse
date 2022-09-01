@@ -1,11 +1,5 @@
 ### ✨ Hi there, I'm Edmilson! ✨
 
-> Computer Science and Engineering student at Eduardo Mondlane University - UEM
-> Passionate about programming.
-
-### Languages &amp; Tools
-
-
 
 <!--
 **eacassecasse/eacassecasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
