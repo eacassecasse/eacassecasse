@@ -1,7 +1,19 @@
-### ✨ Hi there, I'm Edmilson! ✨
+#### ✨ Hi there, I'm Edmilson Cassecasse! ✨
 
-[![eacassecasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=eacassecasse)](https://github.com/eacassecasse/github-readme-stats)
+- Informatic Engineering student at Eduardo Mondlane University - UEM
+- Passionate about programming
 
+
+<div>
+  <a href="https://www.github.com/eacassecasse/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacassecasse&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
+
+<div style="display: inline-block"><br/>
+
+</div>
 <!--
 **eacassecasse/eacassecasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
