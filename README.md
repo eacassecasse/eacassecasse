@@ -1,5 +1,6 @@
 ### ✨ Hi there, I'm Edmilson! ✨
 
+[![eacassecasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=eacassecasse)](https://github.com/eacassecasse/github-readme-stats)
 
 <!--
 **eacassecasse/eacassecasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
