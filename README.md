@@ -1,9 +1,9 @@
 ## Hi there, I'm Edmilson Cassecasse! ✨
 
 
-- Informatic Engineering student at Eduardo Mondlane University - UEM
-- Passionate about programming
+As an dedicated and driven student pursuing a degree in Computer Science Engineering, I am dedicated to developing a strong foundation in Software Development. My coursework and extracurricular activities have honed my analytical and problem-solving skills, allowing me to approach challenges with creativity and tenacity. 
 
+I am passionate about Programming, and I am eager to contribute my skills and enthusiasm to a forward-thinking organization that values innovation and growth. Through internships and networking opportunities, I am eager to gain real-world experience and further refine my abilities.
 
 <div>
   <a href="https://www.github.com/eacassecasse/github-readme-stats">
