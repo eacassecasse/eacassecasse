@@ -22,7 +22,7 @@ I’m a **Software Engineer** and **Computer Engineering Student** at Eduardo Mo
 #### 🚀 Fun Fact  
 I’m passionate about using technology to drive **youth empowerment** and **regional development** in Mozambique and beyond!  
 
-<div>
+<div><br/>
   <a href="https://www.github.com/eacassecasse/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacassecasse&layout=compact&langs_count=8&theme=tokyonight"/>
