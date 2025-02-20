@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Software Engineer | Youth Empowerment Advocate | Regional Development Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/[YourGitHubUsername]">
-    <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/eacassecasse">
+    <img src="https://komarev.com/ghpvc/?username=eacassecasse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://linkedin.com/in/[YourLinkedInUsername]">
+  <a href="https://linkedin.com/in/eacassecasse">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/[YourTwitterUsername]">
+  <a href="https://twitter.com/eacassecasse">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" alt="Twitter" />
   </a>
 </p>
@@ -47,7 +47,7 @@ Here are some of the projects I have worked on:
      - Implemented secure payment gateways (Stripe and M-Pesa) and QR-code ticketing.
      - Enabled multi-language support (Portuguese and English) and a blogging platform for event promotion.
      - Delivered a scalable solution with Nginx for load balancing and Docker for containerization.
-   - [🔗 View Project](#)
+   - [🔗 View Project](https://github.com/eacassecasse/ukuphi-app)
 
 #### 2. **Airbnb Clone (Full-Stack Web Application)**
    - **Role**: Full-Stack Developer
@@ -55,14 +55,14 @@ Here are some of the projects I have worked on:
    - **Key Contributions**:
      - Implemented user authentication, database management, and dynamic content rendering using Jinja2 templating.
      - Deployed the application using Nginx and Gunicorn, with Redis for caching.
-   - [🔗 View Project](#)
+   - [🔗 View Project](https://github.com/eacassecasse/AirBnb-clone-v4)
 
 #### 3. **Custom Shell Implementation**
    - **Role**: Software Engineer
    - **Description**: A custom shell implementation in C with functionalities like process management, file redirection, and command execution.
    - **Key Contributions**:
      - Implemented memory management and error handling to ensure robust performance.
-   - [🔗 View Project](#)
+   - [🔗 View Project](https://github.com/eacassecasse/simple_shell)
 
 ---
 
@@ -75,8 +75,8 @@ Here are some of the projects I have worked on:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eacassecasse&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,8 +84,8 @@ Here are some of the projects I have worked on:
 ### 📫 Let's Connect!
 I’m always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out to me:
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [Your Twitter Profile](#)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/eacassecasse)
+- **Twitter**: [Your Twitter Profile](https://x.com/eacassecasse)
 - **Email**: edmilsoncassecasse25@gmail.com
 
 ---
@@ -96,5 +96,5 @@ If you have any questions, suggestions, or just want to say hi, feel free to ope
 ---
 
 <p align="center">
-  <img src="https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/eacassecasse/eacassecasse/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
