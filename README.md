@@ -1,9 +1,26 @@
-## Hi there, I'm Edmilson Cassecasse! ✨
+### Hi there, I'm Edmilson Cassecasse! 👋  
 
+I’m a **Software Engineer** and **Computer Engineering Student** at Eduardo Mondlane University, passionate about building scalable, user-friendly solutions. I’m a recent graduate of the **ALX Software Engineering Program** and a certified **React.js Developer** through the **Andela React Learning Program**.  
 
-As an dedicated and driven student pursuing a degree in Computer Science Engineering, I am dedicated to developing a strong foundation in Software Development. My coursework and extracurricular activities have honed my analytical and problem-solving skills, allowing me to approach challenges with creativity and tenacity.
+#### 🛠️ Technologies & Tools  
+- **Frontend**: React.js, Next.js, JavaScript (ES6+), HTML/CSS  
+- **Backend**: Node.js, Python, Flask, RESTful APIs  
+- **Databases**: PostgreSQL, MySQL, Redis  
+- **DevOps**: Docker, Nginx, Linux, Git/GitHub  
+- **AI/ML**: Exploring machine learning and data analysis through the ALX AI Starter Kit  
 
-I am passionate about Programming, and I am eager to contribute my skills and enthusiasm to a forward-thinking organization that values innovation and growth. Through internships and networking opportunities, I am eager to gain real-world experience and further refine my abilities.
+#### 🌟 Featured Projects  
+- **[Ukuphi Event Ticketing Platform](https://github.com/eacassecasse/ukuphi-app)**: A full-stack event ticketing platform built with React.js and Next.js.  
+- **[Airbnb Clone](https://github.com/yourusername/airbnb-clone)**: A full-stack Airbnb clone built with Python, Flask, and JavaScript.  
+- **[Custom Shell Implementation](https://github.com/yourusername/custom-shell)**: A custom shell built in C with process management and file redirection.  
+
+#### 📫 Let’s Connect!  
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- Twitter: [twitter.com/eacassecasse](https://twitter.com/eacassecasse)  
+- Email: edmilsoncassecasse25@gmail.com  
+
+#### 🚀 Fun Fact  
+I’m passionate about using technology to drive **youth empowerment** and **regional development** in Mozambique and beyond!  
 
 <div>
   <a href="https://www.github.com/eacassecasse/github-readme-stats">
