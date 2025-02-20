@@ -1,48 +1,100 @@
-### Hi there, I'm Edmilson Cassecasse! 👋  
+<h1 align="center">Hi 👋, I'm Edmilson Cassecasse</h1>
+<h3 align="center">A Passionate Software Engineer | Youth Empowerment Advocate | Regional Development Enthusiast</h3>
 
-I’m a **Software Engineer** and **Computer Engineering Student** at Eduardo Mondlane University, passionate about building scalable, user-friendly solutions. I’m a recent graduate of the **ALX Software Engineering Program** and a certified **React.js Developer** through the **Andela React Learning Program**.  
-
-#### 🛠️ Technologies & Tools  
-- **Frontend**: React.js, Next.js, JavaScript (ES6+), HTML/CSS  
-- **Backend**: Node.js, Python, Flask, RESTful APIs  
-- **Databases**: PostgreSQL, MySQL, Redis  
-- **DevOps**: Docker, Nginx, Linux, Git/GitHub  
-- **AI/ML**: Exploring machine learning and data analysis through the ALX AI Starter Kit  
-
-#### 🌟 Featured Projects  
-- **[Ukuphi Event Ticketing Platform](https://github.com/eacassecasse/ukuphi-app)**: A full-stack event ticketing platform built with React.js and Next.js.  
-- **[Airbnb Clone](https://github.com/yourusername/airbnb-clone)**: A full-stack Airbnb clone built with Python, Flask, and JavaScript.  
-- **[Custom Shell Implementation](https://github.com/yourusername/custom-shell)**: A custom shell built in C with process management and file redirection.  
-
-#### 📫 Let’s Connect!  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Twitter: [twitter.com/eacassecasse](https://twitter.com/eacassecasse)  
-- Email: edmilsoncassecasse25@gmail.com  
-
-#### 🚀 Fun Fact  
-I’m passionate about using technology to drive **youth empowerment** and **regional development** in Mozambique and beyond!  
-
-<div><br/>
-  <a href="https://www.github.com/eacassecasse/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacassecasse&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <a href="https://github.com/[YourGitHubUsername]">
+    <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/[YourLinkedInUsername]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/[YourTwitterUsername]">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+</p>
 
-<div style="display: inline-block"><br/>
+---
 
-</div>
-<!--
-**eacassecasse/eacassecasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a **recent graduate of the ALX Software Engineering Program** and currently pursuing a **BSc in Computer Engineering at Eduardo Mondlane University**. My academic focus includes **software development**, **systems engineering**, and **computer networks**, complemented by hands-on experience in building scalable web applications and optimizing systems. I am also a certified **React.js developer** through the **Andela React Learning Program**, where I gained expertise in **Next.js**, **State Management**, **Context API**, **Server-Side Rendering (SSR)**, and **Static Site Generation (SSG)**.
 
-Here are some ideas to get you started:
+My passion lies in **Youth Empowerment**, **Software Development**, and leveraging technology to drive **Regional Development**. I believe in using technology to solve real-world problems and create opportunities for growth and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Expertise
+Here are the languages, frameworks, and tools I am proficient in:
+
+- **Programming Languages**: C, Python, JavaScript (ES6, Node.js), TypeScript, SQL, HTML/CSS
+- **Frameworks & Libraries**: Flask, Jinja2, SQLAlchemy, jQuery, React.js, Next.js
+- **Tools & Platforms**: Git/GitHub, Vim, Emacs, MySQL, Redis, Nginx, Gunicorn, Puppet
+- **Systems & DevOps**: Linux (Ubuntu), Shell Scripting, SSH, SSL/TLS, HTTP/S, Load Balancers, Monitoring
+- **Data Structures & Algorithms**: Stacks, Queues, Hash Tables, Binary Trees, Sorting, Searching, Big O
+- **Front-End Development**: React Hooks, Context API, State Management, Data Binding, Server-Side Rendering (SSR), Static Site Generation (SSG)
+- **Other Skills**: Unit Testing, Debugging, Web Scraping, APIs, Regex, Technical Writing
+
+---
+
+### 🚀 Projects
+Here are some of the projects I have worked on:
+
+#### 1. **Ukuphi - Event Ticketing Platform**
+   - **Role**: Backend Developer
+   - **Description**: A full-stack event ticketing platform built with Fastify (backend API) and Next.js (frontend).
+   - **Key Contributions**:
+     - Developed a RESTful API for user authentication, event management, and payment processing.
+     - Integrated PostgreSQL for relational data storage and Redis for caching.
+     - Implemented secure payment gateways (Stripe and M-Pesa) and QR-code ticketing.
+     - Enabled multi-language support (Portuguese and English) and a blogging platform for event promotion.
+     - Delivered a scalable solution with Nginx for load balancing and Docker for containerization.
+   - [🔗 View Project](#)
+
+#### 2. **Airbnb Clone (Full-Stack Web Application)**
+   - **Role**: Full-Stack Developer
+   - **Description**: A full-stack Airbnb clone built with Python, Flask, MySQL, and JavaScript.
+   - **Key Contributions**:
+     - Implemented user authentication, database management, and dynamic content rendering using Jinja2 templating.
+     - Deployed the application using Nginx and Gunicorn, with Redis for caching.
+   - [🔗 View Project](#)
+
+#### 3. **Custom Shell Implementation**
+   - **Role**: Software Engineer
+   - **Description**: A custom shell implementation in C with functionalities like process management, file redirection, and command execution.
+   - **Key Contributions**:
+     - Implemented memory management and error handling to ensure robust performance.
+   - [🔗 View Project](#)
+
+---
+
+### 🌟 What Inspires Me
+- **Youth Empowerment**: I am passionate about empowering the next generation through technology and education.
+- **Regional Development**: I believe in leveraging technology to drive development in underserved regions.
+- **Continuous Learning**: I am always eager to learn new technologies and improve my skills.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+I’m always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out to me:
+
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **Twitter**: [Your Twitter Profile](#)
+- **Email**: edmilsoncassecasse25@gmail.com
+
+---
+
+### 💡 How Can I Help You?
+If you have any questions, suggestions, or just want to say hi, feel free to open an issue or reach out to me via email or social media. Let's build something amazing together! 🚀
+
+---
+
+<p align="center">
+  <img src="https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
