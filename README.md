@@ -74,9 +74,10 @@ Here are some of the projects I have worked on:
 ---
 
 ### 📊 GitHub Stats
-<p align="center" style="display: flex; flex-direction: row; flex-wrap: no-wrap; flex-grow: 1;">
+<p align="center" style="display: flex; flex-direction: row; flex-wrap: no-wrap; flex-grow: 1; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eacassecasse&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacassecasse&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -95,6 +96,8 @@ If you have any questions, suggestions, or just want to say hi, feel free to ope
 
 ---
 
-<p align="center">
-  <img src="https://github.com/eacassecasse/eacassecasse/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
