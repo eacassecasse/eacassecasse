@@ -95,7 +95,6 @@ I’m always open to collaborating on interesting projects or discussing new opp
 If you have any questions, suggestions, or just want to say hi, feel free to open an issue or reach out to me via email or social media. Let's build something amazing together! 🚀
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
