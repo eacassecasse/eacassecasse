@@ -74,7 +74,7 @@ Here are some of the projects I have worked on:
 ---
 
 ### 📊 GitHub Stats
-<p align="center" style="display: flex; flex-direction: row; flex-wrap: no-wrap; flex-grow: 1; gap: 10px;">
+<p align="center" style="display: grid; grid-col-templates: repeat(2, 1fr); gap: 2rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eacassecasse&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacassecasse&layout=compact&theme=radical" alt="Top Languages" />
