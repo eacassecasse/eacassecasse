@@ -74,7 +74,7 @@ Here are some of the projects I have worked on:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="center" style="display: flex; flex-direction: row; flex-wrap: no-wrap; flex-grow: 1;">
   <img src="https://github-readme-stats.vercel.app/api?username=eacassecasse&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eacassecasse&theme=radical" alt="GitHub Streak" />
 </p>
